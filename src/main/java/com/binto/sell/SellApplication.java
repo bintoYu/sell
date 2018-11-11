@@ -10,3 +10,4 @@ public class SellApplication {
         SpringApplication.run(SellApplication.class, args);
     }
 }
+ 
